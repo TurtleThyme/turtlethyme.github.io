@@ -4,7 +4,7 @@ title: The Big O Notation
 ---
 
 The Big O Notation is a term that is used to define how long an algorithm takes. This is used to find the worst case scenario of an alogorithm. The more squares or the more bigger the Big O Notation gets, the longer the algorithm takes.
-
+![O(1)](/images/asdfasdfasdf.jpg)
 O(1) is the fastest time as it takes only 1 calculation for a constant.
 
 The Square root of O which is O(√N) or logorithm is also really fast as it takes the square root amount of times to get to the asnwer. 
