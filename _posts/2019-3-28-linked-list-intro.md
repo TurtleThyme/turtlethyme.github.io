@@ -18,3 +18,4 @@ to find the third closet instantly if they are in order instantly. That's an O(1
 I said earlier is like connecting a stread of string to the place when you would want to insert it and the thread of string is 
 usually two strings, the closet before and after unless you are in the tail of the string or the head. That is basically what 
 Linked List are in a closet example.
+![ClosetsExample](/images/yat.jpg)
