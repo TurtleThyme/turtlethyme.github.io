@@ -10,6 +10,7 @@ is less in vlaue than the parent. This pattern appears through out the whole tre
 something like this:
 
 ![Tree](/images/asas.PNG)
+
 This variation is used to find items and sort items really fast because the binary search tree is already in sorted order and
 all you need to do is go down a path where your number is higher than or lower than and go through multipule paths until you
 find your solution. This is an O(log(n)) solution to finding an item in a binary search tree. In the sorting items in a sorted
