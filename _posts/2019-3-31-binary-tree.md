@@ -23,8 +23,6 @@ all you need to do is go down a path where your number is higher than or lower t
 find your solution. This is an O(log(n)) solution to finding an item in a binary search tree. In the sorting items in a sorted
 array for a binary search tree, all you need to do is write a simple 4 lines of logic in order to do that.
 
-![Programm](/images/asasas.PNG)
-
 ```py
 def dfs(node):
   if not node:
