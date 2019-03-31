@@ -17,7 +17,6 @@ something like this:
         10  25   45  60
 </pre>
 
-![Tree](/images/asas.PNG)
 
 This variation is used to find items and sort items really fast because the binary search tree is already in sorted order and
 all you need to do is go down a path where your number is higher than or lower than and go through multipule paths until you
@@ -25,3 +24,12 @@ find your solution. This is an O(log(n)) solution to finding an item in a binary
 array for a binary search tree, all you need to do is write a simple 4 lines of logic in order to do that.
 
 ![Programm](/images/asasas.PNG)
+
+```py
+def dfs(node):
+  if not node:
+    return
+  dfs(node.left)
+  print(node.val)
+  def(node.right)
+```
