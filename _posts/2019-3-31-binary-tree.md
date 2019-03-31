@@ -9,6 +9,14 @@ children from right to left children are sorted in order. The right child is gre
 is less in vlaue than the parent. This pattern appears through out the whole tree. When this tree is sorted, it looks 
 something like this:
 
+<pre>
+             30
+           /    \
+          20     50
+         / \     /  \
+        10  25   45  60
+</pre>
+
 ![Tree](/images/asas.PNG)
 
 This variation is used to find items and sort items really fast because the binary search tree is already in sorted order and
